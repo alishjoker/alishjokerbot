@@ -1,5 +1,5 @@
-# LineChivas
-_May the Chivas be with you..._
+# Alish Joker Bot v.2
+_May the Alish Joker Bot v.2 be with you..._
 
 Tutorial
 ------
@@ -7,7 +7,7 @@ Recomended for python 2.7
 
 Using git :
 
-    $ git clone http://github.com/merkremont/LineChivas
+    $ git clone https://github.com/alishjoker/alishjokerbot
 
 
 Python packages :
@@ -16,16 +16,15 @@ Python packages :
     $ pip install rsa
     $ pip install requests
 
-Run Chivas :
+Run Alish Joker Bot v.2 :
 
-    $ python chivasbot.py
-
+    $ python alish.py
 Video Tutorial
 ------
 
-[![Tutorial Build BOT LINE Unofficial Protector and Kicker Group](http://i.imgur.com/C8xYq7v.png "Tutorial Build BOT LINE Unofficial Protector and Kicker Group")](https://youtu.be/anoF3jnWl2A)
+[![صفحه ما در لاین")](https://line.me/R/ti/p/%40hkl8562e)
 
 Author
 ------
 
-Merk Kremont / [@merkremont](https://twitter.com/merkremont)
+Merk Kremont / [@alish_joker](https://t.me/alish_joker)
